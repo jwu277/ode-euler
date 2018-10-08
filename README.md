@@ -1,2 +1,2 @@
 # ode-euler
-ODE Approximation With Euler's Method
+euler.ODE Approximation With euler's Method
